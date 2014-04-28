@@ -1,8 +1,6 @@
 # IViny Compact Data Acquisition Device
 =====
 
-http://www.ivmech.com
-
 ![alt iviny](https://raw.githubusercontent.com/ivmech/iviny/master/images/hardware/01.png)
 
 ##### IViny is easy to use and USB based simple low-cost measurement device for data acquisition application. It can be used quickly without any low level electronically knowledge.
@@ -16,6 +14,8 @@ http://www.ivmech.com
 * PC user interface
 * 100 S/s**
 * 50 mm x 33 mm x 17 mm
+
+http://www.ivmech.com
  
 ** it will increase with future next firmware upgrade
 
@@ -51,4 +51,5 @@ https://github.com/ivmech/iviny-scope
 
 Also firmware can be written by using IViny Arduino software. It uses arduino-tiny backend, therefore it is available with programming any arduino-tiny sketches over USB by micronucleus firmware.
 
-http://www.ivmech.com
+
+# http://www.ivmech.com
