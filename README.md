@@ -29,7 +29,7 @@ Also it is ATTiny85 based and uses V-USB communication, therefore it is low-cost
 # IViny Scope
 =====
 
-https://github.com/ivmech/iviny-scope
+### https://github.com/ivmech/iviny-scope
 
 ![alt digital](https://raw.githubusercontent.com/ivmech/iviny/master/images/scope/01.png)
 
@@ -47,7 +47,7 @@ Last measurements or saved measurements can be viewed easily.
 # IViny Arduino
 =====
 
-https://github.com/ivmech/iviny-scope
+### https://github.com/ivmech/iviny-scope
 
 Also firmware can be written by using IViny Arduino software. It uses arduino-tiny backend, therefore it is available with programming any arduino-tiny sketches over USB by micronucleus firmware.
 
