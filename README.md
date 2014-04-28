@@ -14,9 +14,10 @@
 * PC user interface
 * 100 S/s**
 * 50 mm x 33 mm x 17 mm
-
-http://www.ivmech.com
+* http://www.ivmech.com
  
+If you interest to have one, feel free to contact us, caner@ivmech.com
+
 ** it will increase with future next firmware upgrade
 
 ![alt iviny](https://raw.githubusercontent.com/ivmech/iviny/master/images/hardware/02.png)
