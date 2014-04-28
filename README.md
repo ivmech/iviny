@@ -12,13 +12,13 @@
 * USB supply, no need external supply
 * V-USB based communication
 * PC user interface
-* 100 S/s**
+* 100 S/s (it will increase with future next firmware upgrade **still under development**)
 * 50 mm x 33 mm x 17 mm
 * http://www.ivmech.com
  
 If you interest to have one, feel free to contact us, caner@ivmech.com
 
-** it will increase with future next firmware upgrade
+
 
 ![alt iviny](https://raw.githubusercontent.com/ivmech/iviny/master/images/hardware/02.png)
 
