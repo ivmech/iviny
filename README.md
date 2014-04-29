@@ -3,7 +3,7 @@
 
 ![alt iviny](https://raw.githubusercontent.com/ivmech/iviny/master/images/hardware/01.png)
 
-##### IViny is easy to use and USB based simple low-cost measurement device for data acquisition application. It can be used quickly without any low level electronically knowledge.
+##### IViny is easy to use and USB based simple low-cost DAQ and measurement device for data acquisition application. It can be used quickly without any low level electronically knowledge.
 
 * 2 channels 0 – 5V ve 0 – 3V digital input/output
 * 2 channels 0 – 5V 10 bit analog input
